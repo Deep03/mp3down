@@ -1,0 +1,6 @@
+youtube-search-python
+pytube
+moviepy
+requests
+eyed3
+beautifulsoup4
