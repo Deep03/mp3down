@@ -30,7 +30,6 @@ def get_playlist_id(str):
 playlist_id = get_playlist_id((input("Enter the playlist url: ")))
 
 
-
 # authentication codes from spotify API
 # Use spotify dev to get these details, very important
 SPOTIPY_CLIENT_ID = '58db0e7ae228450ab8ba7341dd6c67de' 
