@@ -1,18 +1,5 @@
 
-<<<<<<< HEAD
-=======
-
-# Playlist:
-# FIFA: https://open.spotify.com/playlist/1L5A92i3fJRB206A41tqWp?si=5cfdb7c8c65b483a
-# MHA: https://open.spotify.com/playlist/7JDpFWAUbL6cCfD1rSRdSh?si=ee427a481b934280
-# WORKOUT: https://open.spotify.com/playlist/5wIcQQ1udObbrbIaGpiQhJ?si=0f8f8dd127fa4f0b
-# Hindi: https://open.spotify.com/playlist/2DEgj30Ip4dSCfBEJKfARL?si=646eccf8c1e846aa
-# Indie India: https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ?si=9dcf2116cb294843
-# Mood: https://open.spotify.com/playlist/4Kjvwm5SLJmD63ahnoGxNf?si=f5985ff2611b410e
-
-
-
-# https://open.spotify.com/playlist/0IzdRngc6XOjA9mIat8vWG?si=dcf9b16181c648d9
+# Import all the mdoules form requirements.txt
 
 # start time for the script
 start_time = time.time()
