@@ -12,7 +12,6 @@ import json
 from bs4 import BeautifulSoup
 
 
-x
 cwd = "/Users/rootapollo/Downloads/Music/"
 video_path = "/Users/rootapollo/Documents/Docs/Practice/mp3down/videos"
 def down_song(link):
