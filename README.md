@@ -2,6 +2,11 @@
 
 This Python script allows you to download songs from a YouTube playlist based on the tracks obtained from a Spotify playlist. It uses the YouTube Data API to search for the songs and the pytube library to download the audio from the YouTube videos.
 
+## Disclaimer
+
+This project is intended for educational purposes only. The downloading and distribution of copyrighted material without proper authorization may infringe upon the rights of content creators and could be against the law in your jurisdiction. Please use this script responsibly and respect the intellectual property rights of others.
+
+
 ## Prerequisites
 
 Before running the script, make sure you have the following libraries installed:
