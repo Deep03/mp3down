@@ -29,7 +29,7 @@ You can install them using package_install.py
 - Visit the Spotify Developer Dashboard (https://developer.spotify.com/dashboard/) and create a new application.
 - Copy the client ID and client secret and replace `YOUR_CLIENT_ID` and `YOUR_CLIENT_SECRET` in the code with your actual credentials.
 
-4. Run the script:
+4. Run the script: `python(3) main2.py`
 
 
 5. Enter the playlist URL when prompted.
