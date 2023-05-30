@@ -13,7 +13,8 @@ Before running the script, make sure you have the following libraries installed:
 - eyed3
 - beautifulsoup4
 
-You can install them using pip:
+You can install them using package_install.py
+- Run the script package_install.py using `python(3) package_install.py`
 
 
 ## Usage
