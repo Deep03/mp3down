@@ -6,7 +6,7 @@ def down_song(link):
     youtubeObject = youtubeObject.streams.get_highest_resolution()
     try:
         print("Downloading.....")
-        youtubeObject.download("/Users/rootapollo/Documents/Docs/Practice/mp3down/videos")
+        youtubeObject.download("path_to_video_file")
         print("Download is completed successfully")
     except:
         print("An error has occurred")
