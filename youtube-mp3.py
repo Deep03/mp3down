@@ -12,8 +12,8 @@ import json
 from bs4 import BeautifulSoup
 
 
-cwd = "/Users/rootapollo/Downloads/Music/"
-video_path = "/Users/rootapollo/Documents/Docs/Practice/mp3down/videos"
+cwd = "current_working_directory"
+video_path = "path_to_video_fule"
 def down_song(link):
     youtubeObject = YouTube(link)
     youtubeObject = youtubeObject.streams.get_highest_resolution()
